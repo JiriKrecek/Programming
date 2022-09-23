@@ -1,0 +1,500 @@
+254;Davion Schaefer;Kenyan Shilling;True
+58;Prof. Sam Oberbrunner PhD;Netherlands Guilder;False
+287;Vince Hansen;Kina;False
+323;Robin Treutel;Philippine Piso;False
+186;Tatum Lubowitz I;Euro;True
+150;Ruthe Mante;Lithuanian Litas;True
+37;Troy Batz;Spanish Peseta;True
+79;Mr. Friedrich Marks I;Pathet Lao Kip;False
+154;Elissa Grant;Pula;True
+130;Mr. Garland Moore;Italian Lira;False
+261;Berta Huel;Rupiah;False
+327;Mrs. Krystina Annamae Wolff DDS;Georgian Coupon;False
+384;Ms. Aric Gabriella Koepp;Cordoba;True
+38;Mr. Lacey Foster Hermiston;Falkland Islands Pound;True
+238;Rachael Bailey;Azerbaijan Manat;True
+280;Crystel White;Indian Rupee;True
+309;Phyllis Stokes;Lev;False
+76;Hassie Bernier;Italian Lira;True
+257;Shana Dee Vandervort DVM;Zloty;False
+199;Mia Gleason II;Georgian Coupon;False
+29;Freda Dickens;Cedi;False
+433;Garth Hackett;WIR Euro;False
+135;Alessandra Lang;New Romanian Leu;True
+494;Dr. Freddie Celestine Brown;Croatian Dinar;False
+369;Pamela Marvin O'Conner Jr.;Cayman Islands Dollar;False
+404;Viviane Jenkins;US Dollar;False
+359;Waldo Valentin Fahey DDS;Kyat;True
+335;Anahi Hirthe;Peso;False
+187;Quincy Eichmann;New Cruzado;False
+18;Prof. Karlie Zulauf DVM;Latvian Ruble;False
+30;Carolyn Rolfson;Swiss Franc;True
+388;Leopoldo Luettgen;Jamaican Dollar;True
+449;Carmen Josue Conroy DVM;Iranian Rial;False
+179;Jennie Romaguera;Yuan Renminbi;True
+481;Nettie Mayert;Egyptian Pound;False
+83;Prof. Trevor Brianne Jacobs DVM;Convertible Mark;True
+191;Carlee Volkman Sr.;CFP Franc;False
+346;Stone Hessel;Gourde;True
+318;Macy Armstrong;New Taiwan Dollar;True
+364;Christelle Gleichner;Bolívar;False
+222;Dr. Marion Marlen West;Zimbabwe Dollar;False
+442;Lourdes Anderson;Tala;False
+15;Ms. Alf Alexandrine Walter Jr.;Old Shekel;True
+393;Dr. Marge McGlynn;Financial Franc;True
+65;Marvin Rohan;Lev;False
+201;Ivory Feil;Malaysian Ringgit;False
+345;Sarai Greenfelder;UAE Dirham;True
+275;Ethelyn Gerhold;Irish Pound;True
+363;Cathryn Leuschke;Peso boliviano;True
+405;Dr. Ayana Gust Eichmann;Loti;True
+55;Zack Ward;Convertible Mark;True
+430;Zena Abigale Schoen IV;Dong;True
+342;Judy Leland Bernhard Sr.;Czech Koruna;True
+286;Mrs. Jovan Willms;Croatian Kuna;False
+469;Annalise Armstrong;Tala;True
+233;Lupe Parker;Netherlands Guilder;False
+40;Imelda Pouros;Bahraini Dinar;True
+380;Miss Orval Windler II;Karbovanet;True
+6;Prof. Gerson Celia Gutmann;Dong;True
+470;German Casper;Jamaican Dollar;False
+89;Christiana Nitzsche;Karbovanet;True
+140;Omer Elton Boyer DDS;Seychelles Rupee;False
+383;Jace Littel;Rand;True
+473;Daisha Reichert;Kwacha;True
+78;Keara Hoppe;Bermudian Dollar;False
+366;Jett Schimmel;Turkmenistan New Manat;False
+331;Ellsworth Jordan Graham III;Zambian Kwacha;False
+362;Ms. Donny Crona;Bulgarian Lev;False
+415;Mrs. Rosalia Osinski MD;Canadian Dollar;True
+270;Mr. Fay Gleichner;Somali Shilling;True
+367;Winfield Hartmann;Costa Rican Colon;True
+13;Keely Osinski;Swiss Franc;False
+490;Ms. Cristian Aufderhar;Rouble;False
+111;Madyson Jewess;Pa’anga;True
+25;Jeanie Ebert;Forint;False
+313;Garland Charlene Kautzer DDS;Gold;False
+146;Louisa Conn DDS;Kina;True
+303;Tatum Jaskolski;Uzbekistan Sum;True
+246;Elwyn Bernier;French Franc;True
+123;Antonia King;Croatian Kuna;False
+242;Royce Okuneva;Fiji Dollar;True
+84;Zaria Halvorson;Armenian Dram;True
+16;Ally Hoeger II;Bermudian Dollar;False
+408;Leilani Lesch;Financial Rand;False
+406;Travon Sipes;Costa Rican Colon;False
+276;Lavon Johns;Peso Uruguayo;False
+400;Prof. Orville Loyal Waelchi;Ouguiya;False
+282;Mr. Royal Gislason Sr.;Old Shekel;True
+167;Stephanie Kunze;Slovak Koruna;False
+2;Blake Hills;Lithuanian Litas;False
+224;Prof. Don Clementina Padberg V;US Dollar (Next day);False
+211;Toby Watsica II;Cayman Islands Dollar;False
+185;Zoila Twila Gulgowski MD;Bahamian Dollar;True
+51;Mrs. Mya Wilmer Gutkowski III;Croatian Dinar;True
+491;Dudley Hartmann V;Financial Rand;True
+148;Marc Abernathy Jr.;Hryvnia;False
+259;Arianna Upton;Lari;True
+149;Kareem Gutmann;Comorian Franc;False
+27;Mrs. Noemi Breitenberg;Uruguayan Peso;True
+42;Damion Fay;Guinea-Bissau Peso;True
+99;Manuela Runolfsson;Leu A/52;False
+472;Darion Ryan PhD;Lebanese Pound;False
+120;Chadd Dawson Monahan MD;Ghana Cedi;True
+445;Lennie Dickinson;Malagasy Ariary;False
+122;Mrs. Devon Brekke MD;Karbovanet;False
+474;Amely Yundt;Cruzeiro;True
+479;Raphaelle Denesik;Guyana Dollar;True
+176;Mertie Mills;Guyana Dollar;False
+190;Lonnie Dach;Taka;False
+23;Donavon Smitham;Krona A/53;True
+92;Florencio Gottlieb;Zimbabwe Dollar (new);False
+264;Prof. Gabe Dianna West;Kroon;False
+71;Kane Ledner;Burundi Franc;False
+136;Ms. Phoebe Will I;Unidad de Valor Real;True
+247;Francesca Murray IV;Latvian Ruble;True
+455;Rosalinda Hermann;Canadian Dollar;False
+425;Jody Bechtelar;Financial Rand;False
+183;Edward Noel Block PhD;Nepalese Rupee;True
+381;Grayce Smith;Croatian Kuna;False
+440;Cooper Grady;Peso Uruguayo;True
+165;Casimir Cummerata;Fiji Dollar;False
+267;Freeman Johnson;Pathet Lao Kip;True
+321;Ceasar Hessel;Qatari Rial;False
+260;Jamaal Block;US Dollar (Next day);False
+205;Mrs. Adolphus O'Conner I;US Dollar;True
+476;Nelle Kunze V;UAE Dirham;True
+226;Eudora Gibson III;Georgian Coupon;False
+322;Barbara Turner;Euro;True
+349;Christina Gusikowski;Pound Sterling;False
+60;Aliza Batz;Dong;False
+32;Michale Schneider;Moldovan Leu;True
+216;Chelsea Stehr;Trinidad and Tobago Dollar;False
+458;Susanna Boyle;Nuevo Sol;False
+394;Savannah Mertz;Armenian Dram;False
+390;Ms. Salvatore Kelli Kerluke I;Malagasy Franc;True
+447;Garry Sofia Leffler Sr.;UAE Dirham;True
+439;Ms. Brain Macejkovic V;WIR Franc (for electronic);True
+158;Miss Zetta Boehm DVM;UAE Dirham;True
+169;Keegan Brown;Georgian Coupon;False
+480;Conor Gislason MD;Loti;False
+255;Sven Muller;Egyptian Pound;False
+166;Horacio Bashirian;Timor Escudo;True
+244;Murl Cummings;US Dollar;True
+44;Kurtis Dickinson;Qatari Rial;True
+144;Melvina Cole;Dong;False
+198;Mrs. Lesley May Dickens;Spanish Peseta;True
+301;Christian Lueilwitz;Rouble;False
+45;Brock White;Tala;False
+137;Brianne Rutherford;Kwanza Reajustado;True
+344;Dr. Ned Albina Gaylord PhD;Uganda Shilling;True
+19;Ryley Mohr;Tunisian Dinar;False
+412;Hayden Candida Barton V;Czech Koruna;False
+240;Karina Nitzsche;Lao Kip;True
+161;Buster Kshlerin;Lev A/52;True
+343;Dr. Keegan Americo Gorczany;Spanish Peseta;True
+365;Ms. Kaitlin Tanya Hettinger DVM;Azerbaijan Manat;False
+399;Mrs. Sheldon Alexander Rolfson;Dong;False
+142;Izabella Kunde;Rand;True
+129;Isidro Miller;Dobra;False
+204;Charlie Conor Dickens III;Mexican Peso;False
+371;Deondre Abbott;Burundi Franc;True
+21;Mr. Terrill Marina Toy;Malagasy Ariary;False
+194;Alayna Goldner;Kwanza Reajustado;True
+273;Edythe Briana Rath I;Qatari Rial;True
+103;Jon Terry;Trinidad and Tobago Dollar;False
+202;Bruce Haley;Seychelles Rupee;True
+46;Wiley Daniel;Talonas;True
+81;Brennan Nathen Ritchie DDS;Iceland Krona;False
+351;Hiram Orn;Lebanese Pound;False
+297;Ms. Ladarius Feeney;New Cruzado;True
+340;Jamil Dach;Chilean Peso;False
+271;Arlie Kuvalis;Congolese Franc;True
+86;Prof. Parker Donnelly;Vatu;True
+47;Marcella Ortiz;UAE Dirham;False
+35;Dr. Raheem Whitney Metz DDS;Quetzal;False
+189;Prof. Anita Padberg Jr.;Gibraltar Pound;False
+324;Miss Rusty Ezra Ferry Sr.;Kuna;True
+97;Ms. Markus Lonzo Feest PhD;Cabo Verde Escudo;True
+184;Kristopher Lehner;Romanian Leu;True
+428;Belle Murray;Cayman Islands Dollar;True
+426;Prof. Joanne Leannon I;Zloty;False
+85;Miss Joanny Hodkiewicz Sr.;New Taiwan Dollar;True
+241;Violette Schuppe;Lev A/62;True
+414;Lizeth Kiehn;Rupiah;True
+483;Demetris Wilkinson;Zloty;True
+239;Carissa Murazik;Silver;False
+172;Dr. Jerrold Kameron Gorczany;Rouble;False
+119;Ms. Raleigh Demond Kuhlman I;Nakfa;True
+339;Lavonne Johnston;Sol;False
+347;Faustino West;Czech Koruna;True
+223;Dr. Katlyn Armstrong;Burundi Franc;False
+107;Florian Hessel;Lev A/62;False
+193;Bernita White;Kroon;False
+379;Ignatius Watsica;Maldive Rupee;False
+475;Megane Ardella Dare DDS;Lari;False
+431;Carmella Hane;Brunei Dollar;True
+463;Mr. Lloyd Arvilla Jakubowski;Irish Pound;True
+236;Stacey Kayli Kuvalis Jr.;Tolar;True
+389;Toni Lehner;Baht;False
+477;Elian Howell;Old Krona;False
+258;Rosario McClure;East Caribbean Dollar;False
+484;Dr. Geo Fay;New Dinar;False
+231;Keith Kurt Legros IV;Iraqi Dinar;False
+170;Dr. Murray Cremin;Czech Koruna;True
+411;Wellington Oberbrunner;Saint Helena Pound;True
+87;Jany Gleason;Syli;False
+127;Ms. Lydia Ari Bode;Lebanese Pound;True
+417;Enoch Skiles;Cruzado;False
+467;Geovany Sydni O'Keefe I;WIR Euro;False
+178;Prof. Elvis Cleveland Rempel I;Dobra;True
+436;Mr. Woodrow Hayes;Won;True
+299;Osborne Fahey Sr.;Old Turkish Lira;False
+329;Mr. Dayne Lehner;Philippine Piso;True
+337;Dr. Frederick Greenfelder II;Lilangeni;False
+352;Elizabeth Deanna Stoltenberg DDS;Romanian Leu;False
+354;Jacey Ritchie;Cordoba;True
+489;Candice Nitzsche;Georgian Coupon;False
+117;Mr. Samara Reinger V;Uzbekistan Sum;True
+145;Roger Cristobal Okuneva DDS;Tugrik;False
+11;Mr. Marjorie Janie Schinner IV;Old Leu;False
+0;Dr. Kelley Lizeth Moore III;Maltese Pound;True
+291;Dr. Heber Ebert Jr.;Palladium;True
+64;Jaleel Wisoky;No universal currency;False
+80;Ms. Leonardo Kylie Krajcik;Dobra;False
+160;Zane McDermott;French Franc;False
+486;Ms. Brice Fritsch;Gold-Franc;True
+370;Ms. Troy Sanford Gleason;Kwanza;False
+432;Mrs. Arvilla Schinner MD;Spanish Peseta;False
+468;Rosa Linwood Cartwright III;Moldovan Leu;True
+108;Jordi Arlie Jaskolski PhD;Lari;False
+304;Euna Hoeger;Zambian Kwacha;True
+113;Mrs. Carrie Sporer DVM;Rwanda Franc;True
+88;Asha Schaefer DVM;Yemeni Rial;False
+141;Johnson Lemke;Financial Franc;True
+360;Mrs. Howard Serena Haag II;Egyptian Pound;True
+423;Oren Johnson;Drachma;True
+353;Rosamond Hettinger;New Turkish Lira;False
+159;Kitty Kiehn;Rhodesian Dollar;True
+182;Mrs. Jabari Labadie;Kenyan Shilling;True
+459;Mrs. Fanny Dayna Kilback;Tunisian Dinar;True
+177;Leonel Carter;Ngultrum;True
+121;Rubie Hudson III;New Cruzado;False
+116;Shemar Mueller V;Djibouti Franc;True
+220;Finn Hassan Hirthe III;Sudanese Pound;False
+28;Kelley Murray IV;Fiji Dollar;True
+272;Evan Effertz;New Romanian Leu;False
+403;Miss Alisha Ena Goyette;Mexican Peso;True
+398;Nicola Mayer;Leone;True
+200;Prof. Marianna Irwin Rau Jr.;Cuban Peso;False
+229;Elsa Welch II;Tugrik;True
+41;Magdalena Rosenbaum;Singapore Dollar;False
+12;Caesar Carter;Platinum;True
+375;Queenie Hoeger;Euro;True
+210;Jonathon Wehner;Saudi Riyal;False
+209;Russel Hansen I;Loti;False
+462;Ladarius Kiehn;Netherlands Antillean Guilder;False
+68;Bernita Allen Rath Jr.;Zimbabwe Dollar (new);False
+482;Mrs. Baby Lesley Lynch;New Zaire;False
+1;Miss Sigmund Daija O'Connell Sr.;Pathet Lao Kip;True
+328;Kaia Lind;Syli;False
+330;Ms. Larue Eric Grady PhD;Russian Ruble;False
+139;Mr. Myrtle Merle Murphy;New Taiwan Dollar;True
+409;Josephine Parisian;Maltese Lira;True
+62;Alva Turcotte;Deutsche Mark;False
+206;Ms. Maximillia Parker;Schilling;False
+373;Ms. Dee Tiana Bode IV;Turkmenistan Manat;True
+251;Johann Douglas;New Zaire;True
+435;Lew Kirlin;Kroon;False
+152;Michaela Randi Hartmann Sr.;Saint Helena Pound;False
+26;Jennie Maegan Labadie DDS;Italian Lira;False
+448;Prof. Euna Johnson DDS;Tanzanian Shilling;True
+312;Prof. Marcelino DuBuque II;Colombian Peso;True
+334;Mrs. Johnson Murphy;Austral;False
+53;Mafalda Ebert;Argentine Peso;True
+278;Prof. Tyrese Ankunding;Convertible Mark;True
+437;Newton Konopelski V;Somali Shilling;False
+295;Camron Grant DDS;Iranian Rial;True
+151;Dr. Dorcas Toni Haag;Brazilian Real;False
+143;Ms. Ashley Aufderhar MD;Liberian Dollar;True
+316;Felix Schiller;Malagasy Ariary;True
+174;Elvera Hessel;Maldive Rupee;True
+374;Tobin Carter;Cabo Verde Escudo;False
+308;Hugh Hoeger IV;Austral;True
+73;Tod Velva Koch III;Lebanese Pound;True
+230;Miss Roxane Adams V;Comorian Franc;True
+164;Emery Hertha Lesch MD;Ouguiya;True
+67;Merle Anderson;Pound;False
+20;Gerry Effertz;Guinea Escudo;True
+126;Prof. Tabitha Fahey;Philippine Piso;True
+75;Mr. Neal Annie Macejkovic MD;Unidad de Valor Real;False
+250;Mr. Noel Dietrich;Leu A/52;True
+124;Percy Percy Walker DDS;Euro;False
+39;Samson Ritchie;Yemeni Dinar;False
+168;Carrie Hagenes;Djibouti Franc;False
+94;Cayla Gulgowski;Lek;True
+106;Andreanne Hessel;Mali Franc;False
+285;Mekhi Gislason II;Irish Pound;False
+441;Junius Jerde;Denar;True
+112;Kennedy Pollich;Lek;True
+452;Breanna Pfeffer Sr.;Lari;True
+221;Prof. Linnie Hane;Gourde;True
+52;Rosetta Thompson;Guyana Dollar;True
+8;Garnett Littel;New Taiwan Dollar;True
+358;America Klocko;New Turkish Lira;True
+376;Laurianne Waters;Qatari Rial;True
+173;Myron Lindgren;RINET Funds Code;True
+252;Carol Runte;Unidad de Fomento;False
+33;Mrs. Jennings Jimmy Ebert III;No universal currency;True
+450;River Liza Feest MD;Financial Franc;True
+302;Mrs. Eddie Josefina Gerhold;Bermudian Dollar;True
+279;Miss Yoshiko Hamill Jr.;Lithuanian Litas;False
+192;Kellie Prosacco;Peso Uruguayo;True
+138;Ms. Aylin Hintz;Tala;False
+74;Krystel Hettinger;Rufiyaa;True
+317;Abe Mohr;Guinea-Bissau Peso;False
+465;Mrs. Kip Brandon Schulist;Iraqi Dinar;False
+496;Mr. Arjun Lakin II;Costa Rican Colon;True
+102;Dr. Montana Stanton;New Zealand Dollar;False
+114;Mr. Cicero Ada Hyatt;Pataca;False
+493;Paris Boyer;Qatari Rial;False
+61;Terrill Jast;Mexican Unidad de Inversion (UDI);True
+289;Hershel Hills;Unidad de Fomento;True
+454;Jordi Tromp;Turkish Lira;False
+416;Amari Kuhic;Yemeni Rial;False
+234;Micheal Orn;Italian Lira;False
+66;Ismael Ruecker;Mauritius Rupee;True
+429;Mrs. Addison Williamson MD;Bolívar;True
+91;Prudence Nikolaus;RINET Funds Code;True
+350;Alexzander Gutmann;Baht;True
+487;Dr. Josephine Sonia Blick;Iranian Rial;True
+292;Zachary Bayer;Denar;True
+134;Ryley Lueilwitz;Netherlands Antillean Guilder;True
+171;Dimitri Jenkins;Guinea Escudo;False
+274;Rylee Swift;Kyat;False
+387;Dr. Woodrow Gloria Hodkiewicz;Silver;True
+243;Mae Hane MD;Cruzeiro;True
+488;Antoinette Russel;Uruguay Peso en Unidades Indexadas (URUIURUI);False
+320;Nella Harvey;Nuevo Sol;False
+156;Webster Kuphal;Saudi Riyal;False
+499;Rupert Hodkiewicz;Kyat;False
+263;Davion Celestino Denesik II;Trinidad and Tobago Dollar;True
+228;Karianne Volkman;Hong Kong Dollar;True
+288;Melyna Ferry;Dobra;False
+422;Judge Mueller;Lilangeni;True
+298;Brigitte Rodriguez;Palladium;False
+93;Paige Doyle;Georgian Coupon;False
+283;Miss Cecil Bennie Paucek IV;Canadian Dollar;False
+70;Hobart Alexandre Kreiger PhD;Pa’anga;True
+451;Dr. Therese Adonis Pagac;Ouguiya;False
+96;Mr. Valentin Bogan;Cruzeiro Real;True
+293;Jacques Hessel;Dobra;True
+397;Prof. Filiberto Keira Bernier III;Yuan Renminbi;False
+326;Mr. Delfina Austyn Johnston DDS;US Dollar;True
+131;Dock Schmidt;Jamaican Dollar;False
+56;Ashlynn Cruickshank;Yemeni Dinar;True
+262;Dr. Maude Lorna Stamm;Philippine Piso;False
+333;Olen Jonathon Turcotte I;Kuna;False
+413;Dr. Andy Eduardo Osinski Jr.;Financial Rand;True
+310;Gordon Ward;Chilean Peso;True
+315;Dariana Grant;Bahamian Dollar;False
+464;Mrs. Gregory Dicki;Guinean Franc;False
+95;Meghan Murazik;Sucre;True
+332;Laurence Mraz;Boliviano;False
+50;Brianne Beatty;Egyptian Pound;True
+421;Denis Wilkinson;Bolivar;False
+157;Arturo Predovic;Bolivar;True
+457;Mrs. Calista Durgan IV;Leone;True
+212;Quincy Ruth Beer III;Pound Sterling;True
+195;Ms. Connor Blick V;Azerbaijan Manat;False
+361;Eda Hamill;Chilean Peso;True
+256;Alayna Upton;Bolivar;True
+100;Miss Joshuah Blanda;Sol;False
+24;Nicholaus Armstrong;Dobra;True
+175;Jadyn Reinger;Peso;False
+461;Shad Effertz DDS;Platinum;False
+372;Lewis Kilback;Latvian Lats;True
+402;Mrs. Waldo Wehner;Old Dong;False
+5;Skye Simonis;Denar;False
+77;Noemy Breitenberg;Maltese Pound;False
+495;Vada Hauck;Financial Rand;False
+460;Ms. Carmela Albin Yost;New Israeli Sheqel;True
+109;Javonte Swift;Sudanese Pound;True
+217;Mr. Catharine Ernesto Halvorson MD;Guyana Dollar;False
+443;Adan Brekke;New Romanian Leu;True
+105;Miss Percy Macejkovic;Turkmenistan New Manat;False
+396;Wava Cremin;US Dollar;False
+300;Deon Conroy;Afghani;True
+471;Declan Jerde;Euro;True
+314;Emily Harvey;Croatian Dinar;False
+392;Emmie Morar;Fiji Dollar;False
+268;Oren Stark;Falkland Islands Pound;True
+232;Concepcion McDermott;Zimbabwe Dollar;True
+207;Ethel Deckow;Kwanza Reajustado;False
+305;Kailyn Senger;Cabo Verde Escudo;True
+306;Mallie Bartoletti IV;Kroon;True
+9;Dr. Tiffany Nikolaus MD;Jordanian Dinar;True
+378;Dorothy Satterfield;Mvdol;True
+104;Ms. Omari Von Sr.;Kwacha;True
+249;Mrs. Eloisa Bartell DDS;Zloty;False
+196;Dante Schiller;New Zealand Dollar;True
+227;Marielle Harber;Costa Rican Colon;True
+356;Lavern Kreiger;Old Shilling;False
+338;Dr. Maximillian Aletha Hansen;Azerbaijan Manat;True
+54;Pedro Harber;Mauritius Rupee;False
+57;Dr. Eric Meta Medhurst;Croatian Dinar;True
+218;Miss Florine Edgar Mills;US Dollar (Next day);False
+63;Mr. Audrey Lakin Sr.;Silver;True
+466;Prof. Demarco Mosciski III;US Dollar;False
+253;Eddie Corwin;Mozambique Escudo;False
+325;Mr. Mia Keshawn Ebert;Belarusian Ruble;False
+147;Dell Lind;Zambian Kwacha;False
+98;Miss Jordan Casper;Won;True
+456;Miss Else Grant;Kwanza;False
+34;Quentin Bins;Peso;True
+438;Charlotte Thiel;Sol;False
+311;Shakira Kshlerin;Malawi Kwacha;True
+492;Elliott Mayer;Singapore Dollar;False
+69;Alfredo Stamm;Old Uruguay Peso;False
+368;Maia Hilll;Argentine Peso;False
+3;Miss Darryl Strosin I;Mark der DDR;False
+43;Sherwood Brennon Ratke III;Tunisian Dinar;True
+401;Carleton Goyette;Georgian Coupon;False
+341;Lavern Hirthe DDS;Cedi;False
+17;Bette Johnston Sr.;Mark der DDR;True
+277;Ruthe Barton;Latvian Ruble;True
+386;Miss Alysa DuBuque;Peso Convertible;True
+485;Jedidiah Rohan;Italian Lira;True
+498;Diana Carter DVM;Comorian Franc;False
+72;Oleta Rogahn Jr.;Mali Franc;True
+355;Aniyah Carter;Unidad de Valor Real;True
+391;Mr. Walter Jewess IV;Yen;True
+162;Dr. Diego Jake Farrell MD;Lempira;True
+163;Lamar Green;Uruguayan Peso;True
+110;Harmony Greenholt;Mauritius Rupee;True
+446;Ms. Gerson Littel;Danish Krone;True
+269;Mrs. Eldred Jast Jr.;Boliviano;True
+395;Joy Mills;Argentine Peso;False
+197;Ms. Tommie Gregorio Raynor;Riel;False
+420;Bertha Noble Leannon Jr.;Deutsche Mark;True
+31;Walton Okuneva;Uganda Shilling;True
+265;Ms. Alisa Huels I;Guinea Escudo;True
+237;Mr. Kolby Wunsch DVM;Naira;True
+219;Mr. Anthony Cole;Guarani;False
+153;Jerel Kozey;Comorian Franc;True
+248;Jovani Makayla Morar V;Surinam Guilder;True
+48;Mitchell Lueilwitz I;New Kwanza;False
+180;Kaylie Monahan Jr.;US Dollar;True
+133;Miss Sophia Bud Walker;Malawi Kwacha;True
+427;Prof. Ole Welch I;Peso;True
+385;Javon Hauck;Boliviano;False
+4;Lexus Rodriguez;Iceland Krona;True
+203;Laurie Lucie Runte PhD;Belize Dollar;True
+424;Miss Olen Unique Hayes IV;Pakistan Rupee;True
+348;Oceane Weber;Leu A/52;True
+419;Felton Gutmann;Latvian Lats;False
+336;Luciano Green;Kina;False
+294;Mrs. Beaulah Erdman;Talonas;True
+453;Dr. Judy Sydni Fay;Karbovanet;False
+22;Beth Bartell;Zambian Kwacha;False
+7;Mr. Dagmar Sarina Senger II;Kwanza Reajustado;True
+478;Miss Glenna Wiza;Bahamian Dollar;True
+319;Willis Breitenberg;Old Turkish Lira;False
+245;Luther Blair McClure III;Syrian Pound;False
+132;Cassandra Weber;Armenian Dram;False
+215;Rahsaan Abbott IV;Timor Escudo;False
+225;Zora Schaden;Peso Convertible;False
+90;Mozelle Davis;Croatian Kuna;False
+382;Mr. Emily Margarete Lowe II;SDR (Special Drawing Right);False
+101;Prof. Amya Olaf Jacobs Sr.;Zimbabwe Dollar (new);False
+49;Turner Kunze;South Sudanese Pound;True
+296;Miss Kamron Gibson IV;Dinar;False
+284;Ms. Virginia Torrey Heathcote V;Zimbabwe Dollar (old);False
+357;Boyd Zboncak;WIR Euro;True
+281;Dr. Jamar Bernier;Belize Dollar;True
+213;Carlo Bernier;Moldovan Leu;True
+155;Scarlett Hessel;Sucre;False
+14;Aryanna Carter;Pataca;False
+214;Lucious Quitzon;Leu A/52;False
+125;Waldo Lesch;Mauritius Rupee;False
+10;Erich Corwin;Surinam Dollar;True
+497;Miss Alba Clementina White;Cruzeiro;False
+59;Prof. Alexie Marvin Klocko DDS;Convertible Mark;False
+181;Alivia Jenkins;Andorran Peseta;False
+115;Kane Muller;Unidad de Valor Constante (UVC);False
+82;Dr. Mittie Devonte Bosco PhD;CFA Franc BCEAO;False
+290;Mariela Yundt;Naira;True
+118;Elvis Ines Willms II;Rwanda Franc;False
+128;Julia Ratke;Malagasy Ariary;False
+410;Mrs. Amya Schulist;Pula;True
+444;Teresa Alexzander Glover DVM;Maltese Lira;True
+208;Prof. Evans Kirk Gleason Sr.;Yuan Renminbi;False
+418;Nat Grimes;New Israeli Sheqel;True
+377;Nettie Mohr;WIR Franc (for electronic);False
+36;Ms. Krista Bogisich;Mauritius Rupee;False
+266;Merlin Senger;Kroon;True
+407;Kaylin Prosacco;Turkish Lira;True
+235;Eduardo Walsh;Gibraltar Pound;False
+188;Courtney Upton;WIR Franc;True
+307;Ora Maggio;Guarani;False
+434;Alexandro Jaskolski;New Zealand Dollar;True

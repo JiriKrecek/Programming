@@ -1,0 +1,10 @@
+D:\Programování\WebTraffic\WebTraffic\bin\Debug\WebTraffic.exe.config
+D:\Programování\WebTraffic\WebTraffic\bin\Debug\WebTraffic.exe
+D:\Programování\WebTraffic\WebTraffic\bin\Debug\WebTraffic.pdb
+D:\Programování\WebTraffic\WebTraffic\obj\Debug\WebTraffic.csproj.AssemblyReference.cache
+D:\Programování\WebTraffic\WebTraffic\obj\Debug\WebTraffic.csproj.SuggestedBindingRedirects.cache
+D:\Programování\WebTraffic\WebTraffic\obj\Debug\WebTraffic.csproj.CoreCompileInputs.cache
+D:\Programování\WebTraffic\WebTraffic\obj\Debug\WebTraffic.exe
+D:\Programování\WebTraffic\WebTraffic\obj\Debug\WebTraffic.pdb
+D:\Programování\WebTraffic\WebTraffic\bin\Debug\WebDriver.dll
+D:\Programování\WebTraffic\WebTraffic\obj\Debug\WebTraffic.csproj.CopyComplete

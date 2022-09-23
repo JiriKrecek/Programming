@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.header{
+    background-color: aqua;
+    width: 100%;
+}
+
+.title{
+    padding: 10px 0px;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu{
+    width: 100vw;
+    display: inline-flex;
+    align-items: center;
+    justify-content: right;
+    orientation: landscape;
+}
+
+.menu-item{
+    padding: 15px 15px;
+    margin: 3px 3px;
+}
+
+.menu-item:hover{
+    background-color: beige;
+    cursor:pointer;
+    border: 3px brown solid;
+    margin: 0px 0px;
+}

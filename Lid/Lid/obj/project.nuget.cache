@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wehuob2p4aA4iP85YAzTSKGbqzc6J4Id04czvpN8MPhUt52+d7faMkE9tKUD9d8zG9N8w84ii3eo7EYuhThxsQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programování\\Lid\\Lid\\Lid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ntb\\.nuget\\packages\\microsoft.management.infrastructure\\2.0.0\\microsoft.management.infrastructure.2.0.0.nupkg.sha512",
+    "C:\\Users\\ntb\\.nuget\\packages\\microsoft.management.infrastructure.runtime.unix\\2.0.0\\microsoft.management.infrastructure.runtime.unix.2.0.0.nupkg.sha512",
+    "C:\\Users\\ntb\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\microsoft.management.infrastructure.runtime.win.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\obj\Debug\net6.0\Homework1.csproj.AssemblyReference.cache
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\obj\Debug\net6.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\obj\Debug\net6.0\Homework1.AssemblyInfoInputs.cache
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\obj\Debug\net6.0\Homework1.AssemblyInfo.cs
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\obj\Debug\net6.0\Homework1.csproj.CoreCompileInputs.cache
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\bin\Debug\net6.0\Homework1.exe
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\bin\Debug\net6.0\Homework1.deps.json
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\bin\Debug\net6.0\Homework1.runtimeconfig.json
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\bin\Debug\net6.0\Homework1.dll
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\bin\Debug\net6.0\Homework1.pdb
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\obj\Debug\net6.0\Homework1.dll
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\obj\Debug\net6.0\refint\Homework1.dll
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\obj\Debug\net6.0\Homework1.pdb
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\obj\Debug\net6.0\Homework1.genruntimeconfig.cache
+D:\Programování\Doučka\MartinDobest\Homework1\Homework1\obj\Debug\net6.0\ref\Homework1.dll

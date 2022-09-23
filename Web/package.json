@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "sleep-ms": "^2.0.1"
+  },
+  "scripts": {
+    "start": "npm run build && npm run dev && npm run open",
+    "build": "npm run mkdir && npm run build:html && npm run build:css && npm run build:js",
+    "dev": "webpack-dev-server --inline --hot --content-base build --history-api-fallback",
+    "open": "http://localhost:1234/build/index.html"
+  },
+  "dependencies": {
+    "firebase-tools": "^11.10.0"
+  }
+}

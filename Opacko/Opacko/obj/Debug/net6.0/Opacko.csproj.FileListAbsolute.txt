@@ -1,0 +1,15 @@
+D:\Programování\Opacko\Opacko\bin\Debug\net6.0\Opacko.exe
+D:\Programování\Opacko\Opacko\bin\Debug\net6.0\Opacko.deps.json
+D:\Programování\Opacko\Opacko\bin\Debug\net6.0\Opacko.runtimeconfig.json
+D:\Programování\Opacko\Opacko\bin\Debug\net6.0\Opacko.dll
+D:\Programování\Opacko\Opacko\bin\Debug\net6.0\Opacko.pdb
+D:\Programování\Opacko\Opacko\obj\Debug\net6.0\Opacko.csproj.AssemblyReference.cache
+D:\Programování\Opacko\Opacko\obj\Debug\net6.0\Opacko.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programování\Opacko\Opacko\obj\Debug\net6.0\Opacko.AssemblyInfoInputs.cache
+D:\Programování\Opacko\Opacko\obj\Debug\net6.0\Opacko.AssemblyInfo.cs
+D:\Programování\Opacko\Opacko\obj\Debug\net6.0\Opacko.csproj.CoreCompileInputs.cache
+D:\Programování\Opacko\Opacko\obj\Debug\net6.0\Opacko.dll
+D:\Programování\Opacko\Opacko\obj\Debug\net6.0\refint\Opacko.dll
+D:\Programování\Opacko\Opacko\obj\Debug\net6.0\Opacko.pdb
+D:\Programování\Opacko\Opacko\obj\Debug\net6.0\Opacko.genruntimeconfig.cache
+D:\Programování\Opacko\Opacko\obj\Debug\net6.0\ref\Opacko.dll
